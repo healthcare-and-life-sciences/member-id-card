@@ -46,6 +46,8 @@ User Workflow:
 
 <h2>Package Includes:</h2>
 
+1 DataPack named MemberCardWithSampleData.json which contains the following assets:
+
 *OmniScript (2)*
 
 * AHLSMemberIDCard
@@ -53,12 +55,12 @@ User Workflow:
 
 *DataRaptor (6)*
 
-* AHLSCreateAssetSample (https://jeffreybel-220801-243-demo--vlocity-ins.vf.force.com/apex/vlocity_ins__drmapper?id=a2p8V000002Fsg2QAC)
-* AHLSCreatePersonAccount (https://jeffreybel-220801-243-demo--vlocity-ins.vf.force.com/apex/vlocity_ins__drmapper?id=a2p8V000002Fsg3QAC)
-* AHLSGetAssetDetails (https://jeffreybel-220801-243-demo--vlocity-ins.vf.force.com/apex/vlocity_ins__drmapper?id=a2p8V000002Fsg4QAC)
-* AHLSMakanaIDCardTransform (https://jeffreybel-220801-243-demo--vlocity-ins.vf.force.com/apex/vlocity_ins__drmapper?id=a2p8V000002Fsg7QAC)
-* DR_ExtractDocumentTemplateByName_DCT (https://jeffreybel-220801-243-demo--vlocity-ins.vf.force.com/apex/vlocity_ins__drmapper?id=a2p8V000002Fsg5QAC)
-* transformDocumentTemples_DCT (https://jeffreybel-220801-243-demo--vlocity-ins.vf.force.com/apex/vlocity_ins__drmapper?id=a2p8V000002Fsg6QAC)
+* AHLSCreateAssetSample 
+* AHLSCreatePersonAccount 
+* AHLSGetAssetDetails 
+* AHLSMakanaIDCardTransform 
+* DR_ExtractDocumentTemplateByName_DCT 
+* transformDocumentTemples_DCT 
 
 Integration Procedure (1)
 
@@ -79,7 +81,7 @@ Document Template (1)
 
 <h3>Install the Data Pack</h3>
 
-1. The Data Pack folder in the following GitHub repository contains one (1) Omnistudio Data Pack. Please download the Data Pack and save them to your desktop: https://github.com/healthcare-and-life-sciences/member-id-card
+1. The MemberCardWithSampleData.json in the following GitHub repository contains one (1) Omnistudio Data Pack. Please download the Data Pack file and save it to your desktop: https://github.com/healthcare-and-life-sciences/member-id-card
 2. Then, complete the following steps to import them into your Salesforce org.
     1. To Import, in your destination Salesforce org, Click on *App Launcher* → Search for '*OmniStudio DataPacks*' and click on it.
     2. Click on '*Installed*' and on the right side click on '*Import from*'.
