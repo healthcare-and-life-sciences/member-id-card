@@ -87,7 +87,7 @@ Document Template (1)
     2. Click on '*Installed*' and on the right side click on '*Import from*'.
     3. Select '*From File*' - When the window opens, select the Data Pack file that you downloaded and stored on your machine. Click '*Install*'.
     4. After install, choose *‘Activate Now’*. This will activate all components except the Document Template. You will need to manually activate the Document Template record after this step. 
-    5. The Data Pack is: MemberCardWithSampleData.json (https://github.com/sfJeffB/member-id-card/blob/main/MemberCardWithSampleData.json)
+    5. The Data Pack is: MemberCardWithSampleData.json 
 3. The OmniScript can now be invoked from a component of your choosing. A couple of options on how it can be invoked:
     1. Adding it to a FlexCard that is accessible to a Member (e.g., in an Experience Cloud page)
     2. Adding it to another OmniScript that a member engages with. 
