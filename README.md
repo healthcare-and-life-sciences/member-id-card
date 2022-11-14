@@ -77,7 +77,7 @@ Document Template (1)
 <h3>Pre-Install Configuration Steps</h3>
 
 1. Create the main font resource as described below (taken from here: https://docs.vlocity.com/en/Post-Upgrade-Steps-for-Vlocity-Lifecycle-Management-for-Insurance-Summer--22.html) 
-2. ![](/images/image_(38).png)
+2. ![](/images/3image.png)
 3. vlocity_ins.CmPostInstallClass.preparePdfFontLibrary(false, null);
 
 <h3>Install the Data Pack</h3>
@@ -97,8 +97,8 @@ Document Template (1)
 <h2>Post-Install Configuration Steps:</h2>
 
 1. De-activate and re-activate the omniscript:
-2. [Image: image.png]
-3. [Image: image.png]
+2. ![](/images/4image.png)
+3. ![](/images/5image.png)
 
 
 <h2>Sample Data Creation Process for Testing</h2>
