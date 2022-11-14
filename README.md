@@ -158,5 +158,5 @@ The below steps outline how a user may generate sample data to preview the Membe
 
 * *Revision Short Description (Month Day, Year)*
 
-    * Initial release
+    * Initial release September, 2022
 
