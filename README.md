@@ -1,3 +1,4 @@
+![](/images/first_image.png)
 <h1>A-HLS Member ID Card</h1>
 
 Allows a member to generate their own Insurance Card with Policy Details
@@ -16,7 +17,7 @@ This OmniScript generates a Member ID Card that includes the member's plan detai
 
 <h2>Sample Data Generated</h2>
 
-[Image: Accelerate HLS - Member ID Card (1).png]
+![](/images/second_image.png)
 
 <h2>Business Objective</h2>
 
@@ -76,7 +77,7 @@ Document Template (1)
 <h3>Pre-Install Configuration Steps</h3>
 
 1. Create the main font resource as described below (taken from here: https://docs.vlocity.com/en/Post-Upgrade-Steps-for-Vlocity-Lifecycle-Management-for-Insurance-Summer--22.html) 
-2. [Image: image.png]
+2. ![](/images/image_(38).png)
 3. vlocity_ins.CmPostInstallClass.preparePdfFontLibrary(false, null);
 
 <h3>Install the Data Pack</h3>
