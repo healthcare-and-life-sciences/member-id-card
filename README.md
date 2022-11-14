@@ -107,41 +107,41 @@ The below steps outline how a user may generate sample data to preview the Membe
 
 1. Create an account to represent the insurance carrier.
     1. Go to “Accounts” and click new:
-    2. [Image: image.png]
+    2. ![](/images/6image.png)
     3. Choose the record type “Carrier”
-    4. [Image: image.png]
+    4. ![](/images/7image.png)
     5. Fill out the Account details as shown below
-    6. [Image: image.png]
+    6. ![](/images/8image.png)
     7. You should see this (or similar)
-    8. [Image: image.png]
+    8. ![](/images/9image.png)
     9. Create a basic product:
     10. Go to “Products” and click new: 
-    11. [Image: image.png]
+    11. ![](/images/10image.png)
     12. Perform the following steps to create a new product with this exact name: 
         HLS Medical Plan HMO 7000
-    13. [Image: image.png]
-    14. [Image: image.png]
+    13. ![](/images/11image.png)
+    14. ![](/images/12image.png)
     15. Add the “MakanaHealth” Carrier you created earlier:
-    16. [Image: image.png]
+    16. ![](/images/13image.png)
 2. Run the integration procedure’s preview (no data is necessary, follow the steps below)
-3. [Image: image.png]
-4. [Image: image.png]
-5. [Image: image.png]
+3. ![](/images/14image.png)
+4. ![](/images/15image.png)
+5. ![](/images/16image.png)
 6. There will not be anything in the response window:
-7. [Image: image.png]
+7. ![](/images/17image.png)
 8. To confirm it was successful, go to Assets:
-9. [Image: image.png]
-10. [Image: image.png]
+9. ![](/images/18image.png)
+10. ![](/images/19image.png)
 11. This confirms the objects were created:
-12. [Image: image.png]
+12. ![](/images/20image.png)
 13. Now click on the “J.J. Johnson” account link to get the ID
-14. [Image: image.png]
-15. [Image: image.png]
-16. [Image: image.png]
+14. ![](/images/21image.png)
+15. ![](/images/22image.png)
+16. ![](/images/23image.png)
 17. Run the omniscript with the ID from J.J. Johnson
-18. [Image: image.png]
+18. ![](/images/24image.png)
 19. You should see the document created like this: 
-20. [Image: image.png]
+20. ![](/images/25image.png)
     1. 
 
 
