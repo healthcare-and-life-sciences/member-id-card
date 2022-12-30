@@ -76,7 +76,7 @@ Document Template (1)
 
 <h3>Pre-Install Configuration Steps</h3>
 
-1. Create the main font resource as described below (taken from here: https://docs.vlocity.com/en/Post-Upgrade-Steps-for-Vlocity-Lifecycle-Management-for-Insurance-Summer--22.html) 
+1. Create the main font resource as described below (taken from here: https://help.salesforce.com/s/articleView?id=ind.v_contracts_create_main_font_resource_for_pdf_files_for_cme_spring__22.htm&type=5) 
 2. ![](/images/3image.png)
 3. vlocity_ins.CmPostInstallClass.preparePdfFontLibrary(false, null);
 
